@@ -1,1 +1,0 @@
-export default function Page() { return (<div className="flex h-[calc(100vh-4rem)] items-center justify-center p-6"><div className="text-center"><h1 className="text-xl font-bold text-gray-900">Coming Soon</h1><p className="mt-2 text-sm text-gray-500">This section is under construction.</p></div></div>); }
