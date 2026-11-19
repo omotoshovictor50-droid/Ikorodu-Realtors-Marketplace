@@ -1,7 +1,0 @@
-# Automatically opens a pull request when a library has a security update.
-version: 2
-updates:
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "weekly"
